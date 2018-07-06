@@ -2,7 +2,7 @@ package com.moran.home.service.provider.dao;
 
 import org.springframework.data.repository.CrudRepository;
 
-import com.moran.home.service.entity.provider.Address;
+import com.moran.home.service.provider.model.Address;
 
 public interface ProviderAddressRepository extends CrudRepository<Address, Integer> {
 
