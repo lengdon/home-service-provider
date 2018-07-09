@@ -3,5 +3,4 @@
 /.settings/
 /target/
 /.mvn/
-/mvnw
-/mvnw.cmd
+/logs/
